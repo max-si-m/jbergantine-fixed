@@ -1,7 +1,8 @@
 # Updated Jbergantine ITerm2 theme
 
-Move theme file into `~/.oh-my-zsh/themes`
-Use iterm profile for colorschema and fonts setup.
+Move theme file into `~/.oh-my-zsh/themes`.
+
+Import iterm profile `iterm-profile.json` for colorschema and fonts setup.
 
 ![how theme looks](updated_theme.png)
 
