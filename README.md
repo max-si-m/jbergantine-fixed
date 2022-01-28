@@ -12,3 +12,7 @@ ZSH_THEME="jbergantine-updated"
 source $ZSH/oh-my-zsh.sh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ~~~
+
+## Origin theme
+
+Original source code of [Jbergantine](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jbergantine.zsh-theme)
