@@ -3,6 +3,7 @@
 Move theme file into `~/.oh-my-zsh/themes`.
 
 Import iterm profile `iterm-profile.json` for colorschema and fonts setup.
+Uses custom font [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ![how theme looks](updated_theme.png)
 
